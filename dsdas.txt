@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ma³a ma³peczka
+=======
+p³ep³e
+>>>>>>> 796f92ecf76337dad50d50cda98c04589ad35cef
